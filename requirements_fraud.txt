@@ -1,8 +1,6 @@
 streamlit
 pandas
 numpy
-scipy
-implicit
 scikit-learn
 xgboost
-plotly
+shap
